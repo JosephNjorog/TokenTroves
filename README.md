@@ -1,7 +1,3 @@
-Sure! Here is a detailed README documentation for the TokenTroves project:
-
----
-
 # TokenTroves
 
 TokenTroves is a decentralized platform that gamifies task management by leveraging blockchain technology. Users can earn NFTs and climb the leaderboard by completing tasks. The platform also integrates a Telegram bot for seamless notifications and interactions.
